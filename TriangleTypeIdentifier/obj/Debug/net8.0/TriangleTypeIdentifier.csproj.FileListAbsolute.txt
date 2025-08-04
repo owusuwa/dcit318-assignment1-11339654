@@ -1,0 +1,15 @@
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.exe
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.deps.json
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeIdentifier.dll
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\Bram\Desktop\dcit318-assignment1-11339654\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeIdentifier.dll
